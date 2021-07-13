@@ -12,9 +12,30 @@ function About() {
                     <p className="mb-8 leading-relaxed">
                        I'm a recent graduate of Vanderbilt University coding and full-stack development program, where I created responsive web applications utilizing React.js, 
                        JavaScript, Node.js, and several CSS frameworks; as well as back-end fixtures Express.js and MySQL.  As a former member of the cruise and maritime industry,
-                       I served as a certfifed OnBase System Administrator, providing training and support to well over 200 OnBase users.  As a result, I excel at communicating with others 
-                       and relationship building.  
+                       I served as a certfifed OnBase System Administrator, providing training and support to well over 200 OnBase users.  With my prior experiences, education, 
+                       and certifications, it is true that I'm passionate about software and technology, can quickly adapt to new technological tools and languages, 
+                       possess strong communications skills, and enjoy meeting new people and building 
+                       genuine relationships.
                     </p>
+                    <div className="flex justify-center">
+                        <a
+                        href="#contact"
+                        className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+                        Contact Information
+                        </a>
+                        <a
+                        href="#projects"
+                        className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+                        Projects
+                        </a>
+                    </div>
+                    <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+                        <img
+                            className="object-cover object-center rounded"
+                            alt="hero"
+                            src="./public/IMG-0841.JPG" 
+                        />
+                    </div> 
                 </div>
             </div>
         </section>
