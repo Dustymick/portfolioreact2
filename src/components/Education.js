@@ -1,7 +1,7 @@
-import React from "react";
+//import React from "react";
 
-function Education () {
+//function Education () {
 
-}
+//}
 
-export default Education;
+//export default Education;

@@ -7,15 +7,14 @@ function About() {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Dustin
-                        <br className="hidden lg:inline-block" />I love to build amazing apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
                        I'm a recent graduate of Vanderbilt University coding and full-stack development program, where I created responsive web applications utilizing React.js, 
                        JavaScript, Node.js, and several CSS frameworks; as well as back-end fixtures Express.js and MySQL.  As a former member of the cruise and maritime industry,
-                       I served as a certfifed OnBase System Administrator, providing training and support to well over 200 OnBase users.  With my prior experiences, education, 
-                       and certifications, it is true that I'm passionate about software and technology, can quickly adapt to new technological tools and languages, 
-                       possess strong communications skills, and enjoy meeting new people and building 
-                       genuine relationships.
+                       I served as a certfifed OnBase software System Administrator, providing training and support to well over 200 OnBase software users.  With my prior experiences, education, 
+                       and certifications, it is true that I'm passionate about software and technology, and can quickly adapt to new technological tools, languages, and softwares.  Not only that, I  
+                       possess strong communications skills, enjoy meeting new people and building 
+                       genuine relationships with all.
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -33,7 +32,7 @@ function About() {
                         <img
                             className="object-cover object-center rounded"
                             alt="hero"
-                            src="./public/IMG-0841.JPG" 
+                            src="./IMG-0841.JPG" 
                         />
                     </div> 
                 </div>

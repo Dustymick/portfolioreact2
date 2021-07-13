@@ -1,34 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Alien Life Form Generator",
+    subtitle: "Tools & Languages:  Node.js, NPM, Express.js, MySQL2, Sequelize, dotenv, Heroku, bcrypt, express-session, connect-session-sequelize, random-js, and ejs.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Alien Life Form Generator was created to help inspire game masters, artists, and players in the endeavor of character creation and design.",
+    image: "./alien-generator.png",
+    link: "https://alien-generator.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Mid-South Blog Spot",
+    subtitle: "Tools & Languages: MySQL2, Sequelize, Handlebars.js, Express.js, express-session, express-handlebars, connect-session-sequelize, bcrypt.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "This app was created to provide individuals with a real time weather dashboard. This weather app is useful for individuals simply needing a weahter check for the drive in to the office, as well for individuals looking to travel around the globe.",
+    image: "./blogspot2.png",
+    link: "https://dustymick.github.io/weather-dashboard/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Haul That",
+    subtitle: "Tools & Languages: React, React-Bootstrap, Google Maps API, JWT, bcrypt, Apollo, Figma, Twillio.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Haul that is a P2P frieght delivery service that helps those without a truck or trailer move or deliver large items on demand and in a timeline favorable to the user themselves.",
+    image: "./haul-that.png",
+    link: "https://haul-that.herokuapp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Food Planner Pro",
+    subtitle: "Tools & Languages",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "Weekly Food Planner Pro was created to help busy individuals and families better manage meal planning and prep.  This app also has the ability to generate recipes related to meal and ingredient preferences,as well as generate recipes according to dietary restrictions and needs.",
+    image: "./foodplanner.png",
     link: "https://reactbootcamp.com",
   },
 ];
@@ -52,9 +52,15 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "HTML & CSS",
   "React",
-  "Next.js",
+  "Express",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "SQL & NoSQL",
+  "MySQL & SQLite",
+  "jQuery",
+  "Bootsrap",
+  "Handlebars",
+  "Heroku",
+  "GitHub",
 ];
