@@ -1,17 +1,18 @@
 import React from "react";
-import { CodeIcon } from "@heroicons/react/solid";
+import { BadgeCheckIcon, ChipIcon  } from "@heroicons/react/solid";
 import { projects } from "../data"
 
 function Projects() {
     return (
         <section id="projects" className="text-gray-400 bg-gray-900 body-font">
             <div className="flex flex-col w-full mb-20">
-                <div className="flex flext-col w-full mb-20">
+                <div className="text-center mb-20">
+                  <ChipIcon className="w-10 inline-block mb-4" />
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
                     Projects
                     </h1>
                 </div>
-                <div className="flex flex-wrap -m-4">
+                <div className="flex flex-wrap -m-4 p-4">
                     {projects.map((project) => (
                       <a
                         href={project.link}
