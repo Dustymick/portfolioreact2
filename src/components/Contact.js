@@ -12,7 +12,7 @@ function Contact() {
                 Contact Information
                 </h1>    
             </div>
-                <div className="p-6 flex justify-around rounded items-center">
+                <div className="p-6 flex justify-around rounded items-center w-6/12">
                     <div>
                         <a href="tel:206-240-1927">
                                     <img src="./phone.jpg"></img>
