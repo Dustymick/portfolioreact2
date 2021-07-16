@@ -15,26 +15,25 @@ function Contact() {
                 <div className="p-4 flex justify-around">
                     <div>
                         <a href="tel:206-240-1927">
-                            <img src="./phone2.png"></img>
+                            <img className="rounded" src="./phone2.png"></img>
                         </a>
                             <p className="text-center">206-240-1927</p>
                     </div>
                     <div>
                         <a href="mailto:damicklo5@gmail.com">
-                            <img src="./email2.png"></img>
+                            <img className="rounded" src="./email2.png"></img>
                         </a>
                             <p className="text-center">damicklo5@gmail.com</p>
                     </div>
                     <div>
                         <a href="https://www.linkedin.com/in/dustinmicklos/">
-                            <img src="./linkedin2.png"></img>
+                            <img className="rounded" src="./linkedin2.png"></img>
                         </a>
                             <p className="text-center">Linkedin</p>
                     </div>
                     <div>
-                        
                         <a href="https://github.com/Dustymick">
-                            <img src="./github2.png"></img>
+                            <img className="rounded" src="./github2.png"></img>
                         </a>
                             <p className="text-center">GitHub</p>
                     </div>
