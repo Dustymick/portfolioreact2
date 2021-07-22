@@ -11,9 +11,9 @@ export const projects = [
     title: "Mid-South Blog Spot",
     subtitle: "Tools & Languages: MySQL2, Sequelize, Handlebars.js, Express.js, express-session, express-handlebars, connect-session-sequelize, bcrypt.",
     description:
-      "This app was created to provide individuals with a real time weather dashboard. This weather app is useful for individuals simply needing a weahter check for the drive in to the office, as well for individuals looking to travel around the globe.",
+      "Mid-South Blog Spot is a community blogging website devoted to the Memphis and Mid-South region where users can create an account and post articles related to local Tech industry news.",
     image: "./blogspot2.png",
-    link: "https://dustymick.github.io/weather-dashboard/",
+    link: "https://mid-south-blog-spot.herokuapp.com/",
   },
   {
     title: "Haul That",
@@ -25,11 +25,11 @@ export const projects = [
   },
   {
     title: "Food Planner Pro",
-    subtitle: "Tools & Languages",
+    subtitle: "Tools & Languages: HTML, Bulma CSS, JavaScript, Spoonacular API",
     description:
       "Weekly Food Planner Pro was created to help busy individuals and families better manage meal planning and prep.  This app also has the ability to generate recipes related to meal and ingredient preferences,as well as generate recipes according to dietary restrictions and needs.",
-    image: "./foodplanner.png",
-    link: "https://reactbootcamp.com",
+    image: "./foodplanner3.png",
+    link: "https://alehr45.github.io/weekly-food-planner/",
   },
 ];
 
@@ -51,16 +51,32 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Javascript",
   "HTML & CSS",
   "React",
   "Express",
   "Node",
+  "Mongoose",
   "SQL & NoSQL",
   "MySQL & SQLite",
   "jQuery",
-  "Bootsrap",
+  "Bootstrap",
   "Handlebars",
   "Heroku",
   "GitHub",
+  "APIs",
+  "Hyland OnBase",
 ];
+
+export const education = [
+  {
+  image:"./om.png",
+  university: "University of Mississippi",
+  quote: "Bachelors of Arts, Political Science",
+  },
+  {
+    image:"",
+    university:"",
+    quote:"",
+  }
+]

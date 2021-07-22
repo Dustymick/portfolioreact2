@@ -6,18 +6,18 @@ function Projects() {
     return (
         <section id="projects" className="text-gray-400 bg-gray-900 body-font">
             <div className="flex flex-col w-full mb-20">
-                <div className="text-center mb-20">
+                <div className="text-center mb-2">
                   <ChipIcon className="w-10 inline-block mb-4" />
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
                     Projects
                     </h1>
                 </div>
-                <div className="flex flex-wrap -m-4 p-4">
+                <div className="flex flex-wrap -m-0 p-4">
                     {projects.map((project) => (
                       <a
                         href={project.link}
                         key={project.image}
-                        className="sm:w-1/2 w-100 p-4">
+                        className="sm:w-1/2 h-3/4 w-100 p-4">
                         <div className="flex relative">
                             <img
                             alt="gallery"
@@ -28,7 +28,7 @@ function Projects() {
                             <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
                                 {project.subtitle}
                             </h2>
-                            <h1 className="title-font text-lg font-medium text-white mb-3">
+                            <h1 className="title-font text-lg font-medium text-white mb-3 pt-4">
                                 {project.title}
                             </h1>
                             <p className="leading-relaxed">{project.description}</p>
@@ -36,6 +36,20 @@ function Projects() {
                         </div>
                       </a>
                     ))}
+                </div>
+                <div className="text-center">
+                    <h1 className="text-2xl font-medium title-font mb-2 text-white">
+                    GitHub Links:
+                    </h1>
+                        <p className="leading relaxed">
+                            <a className="hover:text-green-300" href="https://github.com/tpgent01/alien-generator">Alien Life Form Generator</a>
+                            <br></br>
+                            <a className="hover:text-green-300"  href="https://github.com/Dustymick/Mid-South-Blog-Spot">Mid-South Blog Spot</a>
+                            <br></br>
+                            <a className="hover:text-green-300" href="https://github.com/alehr45/haul-that">Haul That</a>
+                            <br></br>
+                            <a className="hover:text-green-300" href="https://github.com/alehr45/weekly-food-planner">Food Planner Pro</a>
+                        </p>
                 </div>   
             </div>
         </section>

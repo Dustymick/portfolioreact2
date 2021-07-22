@@ -12,8 +12,8 @@ function About() {
                        I'm a recent graduate of Vanderbilt University coding and full-stack development program, where I created responsive web applications utilizing React.js, 
                        JavaScript, Node.js, and several CSS frameworks; as well as back-end fixtures Express.js and MySQL.  As a former member of the cruise and maritime industry,
                        I served as a certfifed OnBase software System Administrator, providing training and support to well over 200 OnBase software users.  With my prior experiences, education, 
-                       and certifications, it is true that I'm passionate about software and technology, and can quickly adapt to new technological tools, languages, and softwares.  Not only that, I  
-                       possess strong communications skills, enjoy meeting new people and building 
+                       and certifications, it is true that I'm passionate about software and technology, and can quickly adapt to new technological tools, languages, software and applications.  Not only that, I  
+                       possess strong communications skills, enjoy meeting new people, and building 
                        genuine relationships with all.
                     </p>
                     <div className="w-full">
