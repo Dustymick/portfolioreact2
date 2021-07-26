@@ -5,3 +5,17 @@ The project section, highlighting four recent projects, contains interactive lin
 The Contact Me section provides my phone number, email address, and links to my LinkedIn profile and Github profile.
 
 ##
+This React portfolio page was deployed to the web using GitHub pages, and Tailwind CSS was utilized to provide the styling.
+The following dependencies are also included:
+
+-react
+
+-react-dom
+
+-react-scripts
+
+-gh-pages
+
+-tailwindcss
+
+##
