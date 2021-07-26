@@ -19,3 +19,4 @@ The following dependencies are also included:
 -tailwindcss
 
 ##
+![image](https://user-images.githubusercontent.com/75334749/127052124-73f27c25-b073-42d0-9324-cee460edb007.png)
