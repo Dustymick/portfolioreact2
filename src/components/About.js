@@ -9,7 +9,7 @@ function About() {
                         Hi, I'm Dustin
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                       I'm a graduate of Vanderbilt University Coding and Full-Stack Development program, where I created responsive web applications utilizing React.js, 
+                       I'm a graduate of Vanderbilt University Coding and Full-Stack Web Development program, where I created responsive web applications utilizing React.js, 
                        JavaScript, Node.js, and several CSS frameworks; as well as back-end fixtures Express.js and MySQL.  As a former member of the cruise and maritime industry,
                        I served as a certfifed OnBase software System Administrator, providing training and support to well over 200 OnBase software users.  With my prior experiences, education, 
                        and certifications, it is true that I'm passionate about software and technology, and can quickly adapt to new technological tools, languages, software and applications.  Not only that, I  
