@@ -46,7 +46,7 @@ function Projects() {
                             <br></br>
                             <a className="hover:text-green-300"  href="https://github.com/Dustymick/Mid-South-Blog-Spot">Mid-South Blog Spot</a>
                             <br></br>
-                            <a className="hover:text-green-300" href="https://github.com/alehr45/haul-that">Haul That</a>
+                            <a className="hover:text-green-300" href="https://github.com/Dustymick/weather-dashboard">Weather App</a>
                             <br></br>
                             <a className="hover:text-green-300" href="https://github.com/alehr45/weekly-food-planner">Food Planner Pro</a>
                         </p>

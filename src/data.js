@@ -16,12 +16,12 @@ export const projects = [
     link: "https://mid-south-blog-spot.herokuapp.com/",
   },
   {
-    title: "Haul That",
-    subtitle: "Tools & Languages: React, React-Bootstrap, Google Maps API, JWT, bcrypt, Apollo, Figma, Twillio.",
+    title: "Weather App",
+    subtitle: "Tools & Languages: JavaScript, HTML, Bootstrap, Open Iconic, OpenWeatherMap API.",
     description:
-      "Haul that is a P2P frieght delivery service that helps those without a truck or trailer move or deliver large items on demand and in a timeline favorable to the user themselves.",
-    image: "./haul-that.png",
-    link: "https://haul-that.herokuapp.com",
+      "This weather application provides real-time weather conditions, and five-day forecasts, for cities all around the Globe.",
+    image: "./weather-app.png",
+    link: "https://dustymick.github.io/weather-dashboard/",
   },
   {
     title: "Food Planner Pro",
